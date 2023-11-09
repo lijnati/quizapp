@@ -19,6 +19,16 @@ const questions = [
     options: ["Git", "Subversion (SVN)", "Mercurial", "Ruby on Rails"],
     correctAnswer: 3
   },
+  {
+    question: "In JavaScript, what is the purpose of the 'typeof' operator?",
+    options: ["Checking the type of a variable", "Declaring a new variable", "Concatenating strings", "creating a loop"],
+    correctAnswer: 0
+  },
+  {
+    question: "What does the acronym API stand for in programming?",
+    options: ["Application Programming Interface", "Advanced Program Integration", "Automated Protocol Interface", "Application Process Initialization"],
+    correctAnswer: 0
+  },
   // Add more questions here...
 ];
 
